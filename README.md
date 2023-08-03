@@ -7,7 +7,7 @@ So for this project, i decided to develop a whole new task manager that includes
 
 1. ArrayList
 2. HashMap
-3. TreeSet
+3. HashSet
 
 Let's get started!
 
@@ -62,10 +62,3 @@ Finally, we get to our main class. Here, i test the application by coding an exa
 2. What A to-do: Studies of task management towards the design of a ... (n.d.). https://www.researchgate.net/publication/221518959_What_a_to-do_studies_of_task_management_towards_the_design_of_a_personal_task_list_manager 
 3. GeeksforGeeks. (2023, July 21). Object Oriented Programming (OOPS) concept in Java. GeeksforGeeks. https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/ 
 
-
-# Final note
-This was an amazing experience. I loved getting to merge the concepts i learned in this class with java and object oriented programming
-I think this application is very useful for those who have to manage alotof tasks during the day. I know for me personally, it is 
-very useful! 
-
-Note to professor: thank you for dedicating time and excellence to this class. I appreciate all your hard work for your students! Have an amazing rest of the summer
