@@ -20,7 +20,6 @@ This project will create a simple To-Do list app that will allow users to manage
 * TaskPriorityComparator
 * Main.java
 * Resources
-* Final Note
 
 # Contribution
 I was contemplating working with another student but decided ultimately that i felt more comfortable working solo for this project as i wanted to be in full control of the design and layout. I like my work to be a reflection of my ambition and discipline in the software field and i felt this would be more efficiently portraid if i did everything on my own! I hope to give a great reflection of my technical skills through this project.
